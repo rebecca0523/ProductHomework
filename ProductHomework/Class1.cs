@@ -5,8 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ProductHomework
-{
-    public class Class1
+{ /// <summary>
+/// 1.mark first
+/// 
+/// </summary>
+    public class Product1
     {
+
     }
 }
