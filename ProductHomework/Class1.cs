@@ -20,6 +20,7 @@ namespace ProductHomework
 /// 7.Ctrl + K ,Ctrol +D 排版
 /// 8.add comment commit 
 /// 9.去整行空白, 
+/// 10.
 /// </summary>
 
         //泛型1,回傳int (傳入泛型2)

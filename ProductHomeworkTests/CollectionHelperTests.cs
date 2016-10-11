@@ -8,19 +8,11 @@ using System.Threading.Tasks;
 using ExpectedObjects;
 
 
-
-
-
 namespace ProductHomework.Tests
 {
     [TestClass()]
     public class CollectionHelperTests
     {
-        //[TestMethod()]
-        //public void GetGroupSumByFieldTest()
-        //{
-        //    Assert.Fail();
-        //}
 
         [TestMethod()]
         public void GetResultSetTest_count_3_field_Cost()
