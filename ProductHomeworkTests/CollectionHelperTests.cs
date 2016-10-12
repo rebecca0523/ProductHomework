@@ -10,6 +10,7 @@ using ExpectedObjects;
 
 namespace ProductHomework.Tests
 {
+    
     [TestClass()]
     public class CollectionHelperTests
     {
