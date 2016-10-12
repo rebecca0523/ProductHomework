@@ -24,6 +24,7 @@ namespace ProductHomework
 /// 11.Clone GitHub
 /// 12.test source tree 
 /// 13.undo 會回到未更新前
+/// 14. discard, reset all,全部重新下載
 /// </summary>
 
 //泛型1,回傳int (傳入泛型2)
